@@ -1,1 +1,5 @@
-mwuerfli
+git add mwuerfli.txt //Die Datei wird zum Arbeitsbereich hinzugefügt
+git config --global user.email "michi.wuerflinger@gmail.com" //Konfigurieren der e-mail
+git config --global user.name "mwuerfli" //Konfigurieren des User-Namen
+git commit -m "mwuerfli.txt hinzugefuegt" mwuerfli.txt //Die Datei, die mit add hinzugefügt wurde,  wird ins lokale Repository übernommen
+git push --all //Das gesammte Projekt wird auf das zentrale Repository überspielt
