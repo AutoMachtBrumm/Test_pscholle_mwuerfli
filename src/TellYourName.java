@@ -1,2 +1,4 @@
-public class TellYourName {
+interface TellYourName{
+    public void tell();
 }
+
